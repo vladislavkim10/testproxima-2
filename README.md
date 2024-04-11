@@ -3,7 +3,7 @@ Created cluster in digitalocean. When accessing the cluster address,page display
 
 ### Screenshots:
 <p align="center">
-  <img src="https://github.com/vladislavkim10/image/blob/main/task3.png" alt="Screenshot"/>
+  <img src="https://github.com/vladislavkim10/image/blob/main/task3-5.png" alt="Screenshot"/>
 </p>
 
 <p align="center">
